@@ -1,0 +1,9 @@
+---
+title: Worrying
+---
+
+
+
+#permanent
+[[⌁ Psychology]]
+

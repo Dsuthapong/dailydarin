@@ -1,0 +1,9 @@
+---
+title: Conversation consists of Character, Emotion, and Facts
+---
+#permanent 
+When we have a conversation, following determine how much influence we can have on the other person: 
+- Ethos: the person's character. What kind of the person is? Is he a trustworthy person? 
+- Pathos: Emotion conveyed
+- Logos: Facts 
+

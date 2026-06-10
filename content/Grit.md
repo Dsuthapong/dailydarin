@@ -1,0 +1,4 @@
+---
+title: Grit
+---
+#permanent/concept 

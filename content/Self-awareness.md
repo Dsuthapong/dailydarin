@@ -1,0 +1,5 @@
+---
+title: Self-awareness
+---
+#permanent 
+

@@ -1,0 +1,6 @@
+---
+title: ⌁ CEO
+---
+
+
+#permanent/hub
